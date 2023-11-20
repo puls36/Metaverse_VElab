@@ -46,6 +46,8 @@ public class PlayerScript : MonoBehaviourPunCallbacks, IPunObservable
     int index;
 
     public XsensDot manager;
+    public Python_net connect;
+
 
     public XsensManage AW_manager;
 
